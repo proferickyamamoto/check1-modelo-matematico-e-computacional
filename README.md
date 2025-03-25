@@ -1,6 +1,6 @@
 ## 📌 Atividade Avaliativa (Grupo)
 
-### 📚 Tema: Aplicações de funções do 1º grau, 2º grau e limites
+### 📚 Tema: Aplicações de funções do 1º grau, 2º grau, polinômios, exponecial e logarítmico.
 
 - 👥 Grupos de até **3 integrantes**.
 - 🧠 Cada grupo deve resolver **um miniestudo de caso** envolvendo:
